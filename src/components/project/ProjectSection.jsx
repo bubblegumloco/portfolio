@@ -18,7 +18,7 @@ const projectData = [
     image: "/images/projects/sciNews.png",
 
     github: "https://github.com/bubblegumloco/sciNews",
-    live: "scinews.netlify.app",
+    live: "https://scinews.netlify.app",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const projectData = [
     image: "/images/projects/taxi.png",
 
     github: "https://github.com/bubblegumloco/taxiReceipt",
-    live: "taxi-receipt.netlify.app",
+    live: "https://taxi-receipt.netlify.app",
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const projectData = [
     image: "/images/projects/machine.png",
 
     github: "https://github.com/bubblegumloco/singerMachines",
-    live: "singer-receipt.netlify.app",
+    live: "https://singer-receipt.netlify.app",
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ const projectData = [
     category: "Promotional",
     image: "/images/projects/ourPlacePromo.png",
     github: "https://github.com/bubblegumloco/ourPlace",
-    live: "promo-template.netlify.app",
+    live: "https://promo-template.netlify.app",
   },
   {
     id: 6,
